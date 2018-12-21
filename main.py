@@ -1,7 +1,7 @@
 import json
 import random
 import sqlite3
-from lib import requests
+import requests
 import json
 from pprint import pprint
 import firebase_admin
