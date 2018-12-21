@@ -8,7 +8,7 @@ import firebase_admin
 from firebase_admin import credentials
 from firebase_admin import db
 
-cred = credentials.Certificate('C:/Users/ERCLab/Downloads/mobileshop-cca5d-firebase-adminsdk-0wlzq-b6d07b693f.json')
+cred = credentials.Certificate('mobileshop-cca5d-firebase-adminsdk-0wlzq-b6d07b693f.json')
 firebase_admin.initialize_app(cred, {
     'databaseURL': 'https://mobileshop-cca5d.firebaseio.com/',
 })
