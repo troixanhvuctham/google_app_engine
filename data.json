@@ -1,0 +1,146 @@
+{
+  "allos": [
+    "android",
+    "ios"
+  ],
+  "os": {
+    "android": [
+      "samsung",
+      "lg",
+      "nokia"
+    ],
+    "ios": [
+      "iphone"
+    ]
+  },
+  "samsung": [
+    {
+      "name": "Samsung Galaxy J7+",
+      "price": 300,
+      "describe": "screen: 5.5 inch, Full HD, OS: Android 7.0, ROM: 32 GB",
+      "link": "https://www.gadgetsnow.com/mobile-phones/Samsung-Galaxy-J7-Plus"
+    },
+    {
+      "name": "Samsung Galaxy J8",
+      "link": "https://www.samsung.com/ae/smartphones/galaxy-j8-j810/SM-J810FZKDXSG/",
+      "price": 320,
+      "describe": "screen: 6.0 inch, HD+, OS: Android 8.0 (Oreo), CPU: Qualcomm Snapdragon 450, RAM: 3 GB, ROM: 32 GB, Camera: 16 MP, PIN: 3500 mAh"
+    },
+    {
+      "name": "Samsung Galaxy A6",
+      "link": "https://www.samsung.com/ae/smartphones/galaxy-a6-sm-a600/SM-A600FZKHXSG/",
+      "price": 250,
+      "describe": "screen: 5.6 inch, HD+, OS: Android 8.0 (Oreo), CPU: Exynos 7870, RAM: 3 GB, ROM: 32 GB, Camera: 16 MP, Selfie: 16 MP, PIN: 3000 mAh"
+    },
+    {
+      "name": "Samsung Galaxy J6+",
+      "link": "https://www.samsung.com/ae/smartphones/galaxy-j6-j610/SM-J610FZKDXSG/",
+      "price": 210,
+      "describe": "screen: 6.0 inch, HD+, OS: Android 8.1 (Oreo), CPU: Qualcomm Snapdragon 425, RAM: 3 GB, ROM: 32 GB, Camera: 13 MP, PIN: 3300 mAh"
+    },
+    {
+      "name": "Samsung Galaxy J6",
+      "link": "https://www.samsung.com/ae/smartphones/galaxy-j6-j600/SM-J600FZKGXSG/",
+      "price": 200,
+      "describe": "screen: 5.6 inch, HD+, OS: Android 8.0 (Oreo), CPU: Exynos 7870, RAM: 4 GB, ROM: 64 GB, Camera: 13 MP, PIN: 3000 mAh"
+    },
+    {
+      "name": "Samsung Galaxy S9+",
+      "link": "https://www.samsung.com/ae/smartphones/galaxy-s9/",
+      "price": 800,
+      "describe": "screen: 6.2 inch, Quad HD+ (2K+), OS: Android 8.0, CPU: Exynos 9810, RAM: 6 GB, ROM: 64 GB, Camera: 12 MP, PIN: 3500 mAh"
+    },
+    {
+      "name": "Samsung Galaxy Note 9",
+      "link": "https://www.samsung.com/ae/smartphones/galaxy-note9",
+      "price": 800,
+      "describe": "screen: 6.4 inch, Quad HD+ (2K+), OS: Android 8.1 (Oreo), CPU: Exynos 9810, RAM: 6 GB, ROM: 128 GB, Camera: 12 MP, PIN: 4000 mAh"
+    }
+  ],
+  "iphone": [
+    {
+      "name": "iPhone Xs Max 256GB",
+      "link": "https://www.expansys.co.kr/apple-iphone-xs-max-a2104-256gb-space-gray-312960/",
+      "price": 1100,
+      "describe": "screen: 6.5 inch, Super Retina, OS: iOS 12, CPU: Apple A12 Bionic, RAM: 4 GB, ROM: 256 GB, Camera: 12 MP, PIN: 3174 mAh"
+    },
+    {
+      "name": "iPhone Xs 256GB",
+      "link": "https://front.wemakeprice.com/product/127288421",
+      "price": 900,
+      "describe": "screen 5.8 inch, Super Retina, OS: iOS 12, CPU: Apple A12 Bionic, RAM: 4 GB, ROM: 256 GB, Camera: 12 MP, PIN: 2658 mAh"
+    },
+    {
+      "name": "iPhone 7 plus 32GB",
+      "link": "https://www.apple.com/shop/buy-iphone/iphone-7/5.5-inch-display-32gb-black-unlocked",
+      "price": 680,
+      "describe": "screen: 5.5 inch, Retina HD,OS: iOS 11, CPU: Apple A10, RAM: 3 GB, ROM: 32 GB, Camera: 12 MP, PIN: 2900 mAh"
+    },
+    {
+      "name": "iPhone 6s plus 32GB",
+      "link": "https://www.mobile57.com/kr/phones/apple-iphone-6s-plus-3710",
+      "price": 500,
+      "describe": "screen: 5.5 inch, Retina HD, OS: iOS 11, CPU: Apple A9, RAM: 2 GB, ROM: 32 GB, Camera: 12 MP, PIN: 2750 mAh"
+    }
+  ],
+  "lg": [
+    {
+      "name": "G6",
+      "link": "https://www.gsmarena.com/lg_g6-8466.php",
+      "price": 200,
+      "describe": "screen: 5.7 inch, Quad HD, OS: Android 7.0, CPU: Qualcomm Snapdragon 821, RAM: 4 GB, ROM: 64 GB, Camera: 13 MP, PIN: 3300 mAh, SIM: 2 SIM"
+    },
+    {
+      "name": "G7 One",
+      "link": "https://www.gsmarena.com/lg_g7_one-9304.php",
+      "price": 250,
+      "describe": "screen: 6.1 inch, Quad HD+ (2K+), OS: Android 8.1, CPU: Qualcomm Snapdragon 835, RAM: 4 GB, ROM: 32 GB, Camera: 16 MP, PIN: 3000 mAh"
+    }
+  ],
+  "nokia": [
+    {
+      "name": "Nokia 5",
+      "link": "https://gadgets.ndtv.com/nokia-5-4006",
+      "price": 150,
+      "describe": "screen: 5.2 inch, HD, OS: Android 7.1, CPU: Qualcomm Snapdragon 430, RAM: 2 GB, ROM: 16 GB, Camera: 13 MP, PIN: 3000 mAh, SIM: 2 SIM"
+    },
+    {
+      "name": "Nokia 3.1",
+      "link": "https://gadgets.ndtv.com/nokia-3-2018-5490",
+      "price": 160,
+      "describe": "screen: 5.2 inch, HD+, OS: Android 8.0 (Oreo), CPU: MediaTek MT6750N, RAM: 2 GB, ROM: 16 GB, Camera: 13 MP, PIN: 2990 mAh"
+    },
+    {
+      "name": "Nokia 6",
+      "link": "https://gadgets.ndtv.com/nokia-6-2018-4551",
+      "price": 175,
+      "describe": "screen: 5.5 inch, Full HD, OS: Android 7.0, CPU: Qualcomm Snapdragon 430, RAM: 3 GB, ROM: 32 GB, Camera: 16 MP,PIN: 3000 mAh"
+    },
+    {
+      "name": "Nokia 7 plus",
+      "link": "https://gadgets.ndtv.com/nokia-7-plus-4604",
+      "price": 400,
+      "describe": "screen: 6 inch, Full HD+, OS: Android 8.0 (Oreo), CPU: Qualcomm Snapdragon 660, RAM: 4 GB, ROM: 64 GB, Camera: 12 MP, PIN: 3800 mAh"
+    }
+  ],
+  "hottrend": [
+    {
+      "name": "iPhone Xs Max 256GB",
+      "link": "https://www.expansys.co.kr/apple-iphone-xs-max-a2104-256gb-space-gray-312960/",
+      "price": 1100,
+      "describe": "screen: 6.5 inch, Super Retina, OS: iOS 12, CPU: Apple A12 Bionic, RAM: 4 GB, ROM: 256 GB, Camera: 12 MP, PIN: 3174 mAh"
+    },
+    {
+      "name": "Samsung Galaxy S9+",
+      "link": "https://www.samsung.com/ae/smartphones/galaxy-s9/",
+      "price": 800,
+      "describe": "screen: 6.2 inch, Quad HD+ (2K+), OS: Android 8.0, CPU: Exynos 9810, RAM: 6 GB, ROM: 64 GB, Camera: 12 MP, PIN: 3500 mAh"
+    },
+    {
+      "name": "G6",
+      "link": "https://www.gsmarena.com/lg_g6-8466.php",
+      "price": 200,
+      "describe": "screen: 5.7 inch, Quad HD, OS: Android 7.0, CPU: Qualcomm Snapdragon 821, RAM: 4 GB, ROM: 64 GB, Camera: 13 MP, PIN: 3300 mAh, SIM: 2 SIM"
+    }
+  ]
+}
